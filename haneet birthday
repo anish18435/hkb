@@ -1,0 +1,109 @@
+haneet-birthday.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday Haneet 🎂</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #ffdde1, #ee9ca7);
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+        }
+        h1 {
+            text-align: center;
+            color: #e91e63;
+            font-size: 42px;
+        }
+        .hero-img {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .hero-img img {
+            width: 220px;
+            border-radius: 15px;
+        }
+        h2 {
+            font-size: 18px;
+            line-height: 1.8;
+            font-weight: 400;
+        }
+        .emojis {
+            text-align: center;
+            font-size: 28px;
+            margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 16px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎉 Happy Birthday Haneet 🎂</h1>
+
+    <div class="hero-img">
+        <img src="https://i.imgur.com/0y8Ftya.png" alt="Birthday Image">
+    </div>
+
+    <div class="emojis">💖✨🌸👑</div>
+
+    <h2>
+        Happy Birthday 🎉🎂✨ Haneet,<br><br>
+
+        Aaj ka din sirf ek birthday nahi hai, balki ek aise insaan ka celebration hai
+        jiska character, values aur nature uski sabse badi strength hain 💫.<br><br>
+
+        Aapka nature hi aapki pehchaan hai. Aapka soft hona kamzori nahi,
+        balki aapki sabse badi power hai 🌸. Aap jahan bhi jaati ho,
+        apni simplicity, respect aur maturity se logon par ek alag hi impression chhodti ho.<br><br>
+
+        Zindagi mein aapne jo bhi silently face kiya hai,
+        usne aapko todne ke bajay aur strong banaya hai 💪.
+        Har koi apna dard dikha nahi paata,
+        aur jo log chupchaap sab sambhaal lete hain,
+        wahi asal mein sabse zyada powerful hote hain 🤍.<br><br>
+
+        Main dil se chahta hoon ke aap hamesha apni worth samjho,
+        khud par proud feel karo aur kabhi bhi apni value kam na samjho ✨.
+        I genuinely wanna see you as a <b>high value woman</b> —
+        jo apni respect khud banaye,
+        jo apni khushi ko priority de
+        aur jo kabhi bhi less ke liye settle na ho 👑.<br><br>
+
+        Yaad rakhna, aap kabhi bhi akeli nahi ho 🤗.
+        Jab bhi mann ho, bina hesitation baat kar sakti ho,
+        khaaskar un baaton ke liye jo duniya ko nahi keh paati.
+        Aapki baatein yahan safe hain 💖.<br><br>
+
+        Iss naye saal ke liye meri dua hai ke:
+        🌟 aapke sapne poore ho<br>
+        🌟 aapko sukoon mile<br>
+        🌟 aur aap hamesha muskurati raho 😌<br><br>
+
+        Kabhi sirf “theek hoon” pe settle mat hona —
+        <b>aap khush rehne ke liye bani ho</b> 🎈🎂🎈.
+    </h2>
+
+    <div class="footer">
+        With respect & best wishes 💐
+    </div>
+</div>
+
+</body>
+</html>
